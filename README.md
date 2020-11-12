@@ -7,7 +7,7 @@
 <h1>硬件部分</h2>
 <hr/>
 <p>我们采用的是乐鑫的
-  <abbr title="点击进入官网">
+  <acronymr title="点击进入官网">
     <a herf="https://www.espressif.com/">esp32</a>
-   </abbe>
+   </acronym>
  </p>
