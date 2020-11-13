@@ -23,6 +23,6 @@
   这里推荐一篇傻瓜级的
     <a href="https://www.cnblogs.com/chengchen/p/12725056.html">教程</a>
   真的是手把手教刷系统，当然要是更精进的话就要访问一下
-    <a href=""https://whycan.com/>哇酷社区</a>
+    <a href="https://whycan.com/">哇酷社区</a>
   。
 </p>
